@@ -6,11 +6,3 @@ void main()
   cout<<"hello";
 }
 
-<!doctype html>
-<html>
-<head>
-</head>
-<body>
-<p>haha</p>
-</body>
-</html>
